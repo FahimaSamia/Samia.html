@@ -1,19 +1,11 @@
 <!DOCTYPE html>
    <html>
    <head>
-    <title>All about Sundarban</title>
+    
    </head>
    <body>
     <h1>All about Sundarban!!</h1>
-<style>
-h2{color:crimson;}
-p{color:purple;}
-body{background-color
 
-</style>
-
-
-     <img src="https://images.app.goo.gl/zZfvmeb1dwTcujzQ9.jpeg" alt="The Bengal Tiger">
 <h2>What is Sundarban?</h2>
 <p>Sundarban is the biggest mangrove forest in the world.Sundarban lies between Bangladesh and  neighborhood country India.<em>However</em>,most of the area is owned by Bangladesh Government .</p>
 <p><h2>Basic info</h2>The Sundarbans mangrove forest covers an area of about 10,000 km2 (3,900 sq mi), of which forests in Bangladesh's Khulna Division extend over 6,517 km2 (2,516 sq mi) and in West Bengal, they extend over 3,483 km2 (1,345 sq mi) across the South 24 Parganas and North 24 Parganas districts.</p>
